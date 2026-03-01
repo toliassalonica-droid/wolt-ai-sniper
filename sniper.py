@@ -3,8 +3,8 @@ import time
 from datetime import datetime
 
 # ====== ΒΑΛΕ ΤΑ ΔΙΚΑ ΣΟΥ ======
-BOT_TOKEN = "ΒΑΛΕ_ΕΔΩ_ΤΟ_BOT_TOKEN"
-CHAT_ID = "ΒΑΛΕ_ΕΔΩ_ΤΟ_CHAT_ID"
+BOT_TOKEN = "8695935379:AAG378T7orJ5lVAOhDc68fSHtXNht78T7pA"
+CHAT_ID = "8627175123"
 CITY = "Thessaloniki"
 # ==============================
 
